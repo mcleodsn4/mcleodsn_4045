@@ -100,6 +100,12 @@ local.properties
 # Annotation Processing
 .apt_generated
 
+
+
 .sts4-cache/
 
 # End of https://www.gitignore.io/api/eclipse
+
+
+.mvn/wrapper*
+mvnw*
